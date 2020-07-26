@@ -4,6 +4,7 @@
 
 [![Generic badge](https://img.shields.io/badge/Live%20demo%20at-GitHub%20Pages-BLUEVIOLET.svg?style=plastic)](https://nijepa.github.io/wheres-waldo/)
 
+<hr>
 
 ## Project setup
 ```
